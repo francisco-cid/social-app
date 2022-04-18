@@ -1,1 +1,1 @@
-# animated-funicular
+# Prototype for Group Dating App
