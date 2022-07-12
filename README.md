@@ -1,1 +1,1 @@
-# Prototype for Group Dating App
+# Prototype for Group Social Media App
